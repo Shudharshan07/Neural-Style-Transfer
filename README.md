@@ -48,7 +48,7 @@ Here are some example results generated using this project:
 
 - **Content Image**: ![Alt text](images/Content3.jpg)
 - **Style Image**: ![Alt text](images/Style15.jpg)
-- **Result**: A cityscape rendered in the style of *Starry Night*.
+- **Result**: ![Alt text](images/out.jpg)
 
 *Note*: Sample content and style images are provided in the `images/` directory.
 
