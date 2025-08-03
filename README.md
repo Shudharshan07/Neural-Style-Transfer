@@ -1,6 +1,11 @@
 # Neural Style Transfer
 
-Welcome to the **Neural Style Transfer** project! This repository contains an implementation of the Neural Style Transfer algorithm, which allows you to combine the content of one image with the artistic style of another, creating visually stunning results. This project is perfect for those interested in deep learning, computer vision, and generative art.
+Welcome to the Neural Style Transfer project! This repository implements the Neural Style Transfer (NST) algorithm, enabling you to blend the content of one image with the artistic style of another to create visually stunning results. As a highlight, this project includes a **Telegram bot** that lets you interact with the NST algorithm directly from **Telegram**, making it easy to generate stylized images on the go! It’s perfect for anyone interested in deep learning, computer vision, generative art, or building interactive bots.
+
+Check out my step-by-step guide on **creating a Telegram bot** in my Medium blog post: 
+[Create a Telegram Bot Using BotFather and Enhance It with Python](https://medium.com/@shudharshan07/create-a-telegram-bot-using-botfather-and-enhance-it-with-python-eb8690cf989c)
+
+I followed the documentation released by tensorFlow : [Documentation](https://www.tensorflow.org/tutorials/generative/style_transfer)
 
 ## Table of Contents
 - [About](#about)
