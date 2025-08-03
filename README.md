@@ -6,7 +6,6 @@ Welcome to the **Neural Style Transfer** project! This repository contains an im
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Examples](#examples)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
@@ -44,27 +43,10 @@ To set up the project locally, follow these steps:
    pip install -r requirements.txt
    ```
 
-## Usage
-To run the Neural Style Transfer algorithm, use the following command:
-
-```bash
-python nst.py --content <path_to_content_image> --style <path_to_style_image> --output <output_image_name>
-```
-
 ### Example
 ```bash
 python nst.py --content images/content.jpg --style images/style.jpg --output output/stylized_image.jpg
 ```
-
-### Options
-- `--content`: Path to the content image.
-- `--style`: Path to the style image.
-- `--output`: Path to save the stylized output image.
-- `--iterations`: Number of optimization iterations (default: 1000).
-- `--content-weight`: Weight for content loss (default: 1e4).
-- `--style-weight`: Weight for style loss (default: 1e10).
-
-Run `python nst.py --help` for a full list of options.
 
 ## Examples
 Here are some example results generated using this project:
@@ -81,11 +63,10 @@ The project requires the following dependencies:
 - PyTorch
 - NumPy
 - Pillow
-- Matplotlib
-
+  
 Install them using:
 ```bash
-pip install torch numpy pillow matplotlib
+pip install -r requirements.txt
 ```
 
 For the full list, see `requirements.txt`.
