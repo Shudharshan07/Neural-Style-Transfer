@@ -42,17 +42,12 @@ To set up the project locally, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-
-### Example
-```bash
-python nst.py --content images/content.jpg --style images/style.jpg --output output/stylized_image.jpg
-```
-
+   
 ## Examples
 Here are some example results generated using this project:
 
-- **Content Image**: A photograph of a cityscape.
-- **Style Image**: Van Gogh's *Starry Night*.
+- **Content Image**: ![Alt text](images/Content3.jpg)
+- **Style Image**: ![Alt text](images/Style15.jpg)
 - **Result**: A cityscape rendered in the style of *Starry Night*.
 
 *Note*: Sample content and style images are provided in the `images/` directory.
