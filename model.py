@@ -87,12 +87,3 @@ app.add_handler(telegram.ext.CommandHandler('help', help))
 app.add_handler(telegram.ext.MessageHandler(telegram.ext.filters.PHOTO, image))
 
 app.run_polling(poll_interval=3)
-
-
-
-# content 3 and style 9
-# content 2 and style 15
-# content 3 and style 15
-# content 2 and style 16
-
-
