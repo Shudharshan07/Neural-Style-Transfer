@@ -9,7 +9,6 @@ Welcome to the **Neural Style Transfer** project! This repository contains an im
 - [Examples](#examples)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 Neural Style Transfer (NST) is a technique that uses convolutional neural networks (CNNs) to transfer the artistic style of one image (e.g., a painting) onto the content of another image (e.g., a photograph). This project implements NST using Python and popular deep learning frameworks, enabling users to create unique, stylized images.
@@ -72,9 +71,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 5. Open a pull request.
 
 Please ensure your code follows the project's coding standards and includes appropriate documentation.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
